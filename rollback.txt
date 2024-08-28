@@ -1,0 +1,1 @@
+Rollback of Gerrit has been completed
